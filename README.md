@@ -1,6 +1,7 @@
 # SQL-Portfolio-Projects
 
-This repository provides a sample of data analysis work I completed using SQL and  Microsoft Excel ＆ Tableau.
+This repository provides a sample of data analysis work I completed using SQL and  Microsoft Excel.
+Below is my Tableau porfolio sample.
 
 This is about AirBnb Tokyo 2023 price
 
