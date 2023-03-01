@@ -1,2 +1,2 @@
-# PortfolioProjects
+# SQLPortfolioProjects
 SQL Portfolio Projects
