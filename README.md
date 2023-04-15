@@ -1,11 +1,17 @@
-<h1>Yu Chiang: Aspiring Data Analyst</h1>
-<p>Hello there! My name is Yu and I am an aspiring data analyst. I have completed several data analysis projects that showcase my skills in SQL, Excel, Tableau, and web scraping. Here are some of my recent projects:</p>
-<ul>
-  <li><strong>SQL Query Practice:</strong> I have worked on several SQL queries that involve complex joins and subqueries to analyze data from a Vaccination database. I have also written queries to update and delete data.</li>
-  <li><strong>Excel Dashboard Analytics:</strong> I created an Excel dashboard to analyze bicycle sales data by age, sex, commuting distance, and job type. The dashboard includes charts, pivot tables, and slicers that allow for easy filtering and exploration of the data.</li>
-   <li><strong>Amazon Web Scraper:</strong> I developed a web scraper using Python and Beautiful Soup to extract product data from Amazon. The scraper can be used to analyze pricing, reviews, and other product attributes.</li>
-  <li><strong>Tableau Project</strong> I analyzed the percentage of COVID-related deaths around the world in 2022 to 2023 by querying data using SQL and visualizing the results in Tableau.</li>
-  
-<div class='tableauPlaceholder' id='viz1681397405519' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;N9&#47;N95GWDKRM&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;N95GWDKRM' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;N9&#47;N95GWDKRM&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+# Excel Project: Analysis of bicycle purchasing tendency
 
-  <p>I am passionate about using data to inform business decisions and drive growth. I am currently seeking a beginner data analyst role where I can apply my skills and continue to learn and grow. Please feel free to reach out to me at mjilovechoco@gmail.com. Thank you for your consideration!</p>
+This Excel project analyzes a <a href="https://github.com/amo0125/PortfolioProjects/raw/main/Excel%20Project%20Dataset.xlsx" download>dataset</a>
+dataset containing demographic and purchasing information for a sample of individuals. The dataset includes the following variables:
+
+## Analysis
+
+The Excel file contains several analysis of the dataset. These include:
+
+<ul>
+  <li>Income Analysis: a bar chart of the distribution of incomes in the dataset, as well as summary statistics for income broken down by gender, commute Distance.</li>
+	<li>Purchasing Analysis: a pivot table and chart showing the number and percentage of individuals who purchased a bike broken down by gender, commute Distance.</li>
+</ul>
+
+## Conclusion
+
+This Excel project provides a comprehensive analysis of a dataset containing demographic and purchasing information for a sample of individuals. The project includes descriptive statistics, visualizations,provide insights into the relationships between different variables in the dataset. This analysis could be useful for marketers, retailers, and other professionals looking to better understand the purchasing behavior of different demographic groups.
