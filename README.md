@@ -1,7 +1,7 @@
 # Excel Project: Analysis of bicycle purchasing tendency
 
 This Excel project analyzes a <a href="https://github.com/amo0125/PortfolioProjects/raw/main/Excel%20Project%20Dataset.xlsx" download>dataset</a>
-dataset containing demographic and purchasing information for a sample of individuals. The dataset includes the following variables:
+ containing demographic and purchasing information for a sample of individuals. 
 
 ## Analysis
 
